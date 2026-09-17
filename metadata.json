@@ -1,0 +1,7 @@
+{
+  "name": "F999",
+  "description": "F999 Gaming platform with Admin Panel, secure payment gateways, automated withdrawal pipeline, AI support chatbot, and security audit center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
